@@ -6,6 +6,8 @@ The event that we are proposing would be an all-day event, meaning it would span
 
 Broadly, the event can be split into two parts: An interactive presentation about the core language concepts of Rust, using http://exercism.io as a platform. This way, learners can learn at their own pace using a well-known curriculum. The second part leads learners to build their own small website in Rust. This way, every learner can work at their own pace if they want, but still collaborate efficiently.
 
-We hope you will consider our proposal! Thank you so much for your time, we hope to hear from you soon.
+We hope you will consider our proposal! If you need any more information, feel free to reach out to us under this email address.
+
+Thank you so much for your time, we hope to hear from you soon.
 
 [NAMES OF ORGANIZERS]
