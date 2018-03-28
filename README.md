@@ -20,4 +20,4 @@ These are resources that don't particularily fit in any other category, but are 
 
 ## Contributing
 
-Running an event? You've discovered new groundbreaking information that might change the way we think about learning Rust forever? You can open a Pull Request with your changes or additions here! There's no specific guidelines as to how it should be formatted other than being Markdown.
+Have you used these materials or run your own workshop? We'd love to learn and grow from your experience. Please feel free to file any issues with questions or comments, or open up a PR with new materials! There's no specific guidelines as to how content should be formatted other than being Markdown.
