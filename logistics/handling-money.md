@@ -7,7 +7,7 @@ The two most common things that cost money are renting space and providing food 
 
 Approach local companies or universities for sponsorship.
 They might give you a venue for free or for a very small amount of money.
-If you can get a venue sponsor you already saved yourself what could be your biggest cost. 
+If you can get a venue sponsor you already saved yourself what could be your biggest cost.
 
 Food for attendees is another big cost. Try to find a sponsor to cover that.
 Remember, sponsors get publicity for their businesses or organizations out of sponsorship – which can mean an awful lot to them! But if all else fails, if you’ve got a space but no lunch, ask your participants to bring their own lunch.
@@ -21,5 +21,5 @@ Get in contact as early as possible.
 The Community Team is also a good contact to get some swag such as stickers.
 Keep in mind that swag is a nice-to-have, not a must.
 
-You can run a successfull event without a budget.
+You can run a successful event without a budget.
 Focus on the learnings first.
