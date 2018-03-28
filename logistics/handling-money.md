@@ -9,7 +9,8 @@ They might give you a venue for free or for a very small amount of money.
 If you can get a venue sponsor you already saved yourself what could be your biggest cost. 
 
 Food for attendees is another big cost. Try to find a sponsor to cover that.
-Remember, sponsors get publicity for their businesses or organizations out of sponsorship – which can mean an awful lot to them! But if all else fails, if you’ve got a space but no lunch, ask your participants to brown bag it.
+Remember, sponsors get publicity for their businesses or organizations out of sponsorship – which can mean an awful lot to them! But if all else fails, if you’ve got a space but no lunch, ask your participants to bring their own lunch.
+Additionally, you can also make a list of local restaurants and supermarkets nearby. Look for things in walking distance (5-10 minutes of walking at best).
 Make sure to communicate the plan to attendees before the event, so they can prepare for it.
 
 If you require some money but did not find any sponsors, you should contact the [Rust Community Team](mailto:community@rust-lang.org).
