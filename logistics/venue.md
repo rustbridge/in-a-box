@@ -7,7 +7,7 @@ sit in groups.
 Learning works better when having a little space and it's not too noisy.
 
 Don't stress out about venue details _too_ much, people are great at working
-around flaws, as long as you and the attendees are aware. It's the learning 
+around flaws, as long as you and the attendees are aware. It's the learning
 experience that counts.
 
 ## A venue is a relationship
@@ -24,31 +24,38 @@ If you want to run regular workshops, make sure you build a couple of contacts.
 RustBridge is a flexible program, so you are also flexible in a venue.
 
 A venue for RustBridge should fulfill the following requirements:
-* It's free
+
+Strong requirements:
+* You don't have to pay for it
+  - Usually, there's some trade involved, for example you promoting the
+    company owning the venue
 * Space for at least 20 people to comfortably sit around tables
+* Have a screen or a projector to present things
+  - This is a must. Unless you have a very small group or there's no other option available, don't take venues without.
+* Provides power sockets that can be arranged at the tables
+* Check accessibility, especially if access to the venue is step-free
+
+Important requirements:
+* Long events mean that people have to make pauses and step out, see that thereis space to retreat.
 * Open a little before and after the workshop
 * A bare room with rearrangable furniture is preferred
   - avoid row seating, but take it if you have nothing else
-* Check accessibility, especially if access to the venue is step-free
-* Prefer places that have a screen or a projector to present things
-* Long events mean that people have to make pauses and step out, see
-  that there's a space to retreat
-* Have power sockets at the tables
-* Good the internet connection, Rust installation is bandwidth-intensive
-* Have good, warm lighting. Not everyone appreciates bright lights and
+* Good internet connection, Rust installation is bandwidth-intensive
+
+Additional things to look out for:
+* Have good, warm lighting. Bright light is stressfuland
   screens work a little better in not too bright lights.
 
 All these aren't make or break. You can only have a space for 10? Make
-a smaller event. No screen available? Have people see the slides on
-their computers.
+a smaller event. Even some of the strong requirements can be hacked around.
 
 ## Finding a good venue
 
 Prefer having a venue with issues over having nothing. If you are in
 a place with a notable tech scene, companies often have larger meeting
-rooms they give for free to projects. Co-workings spaces also often have
+rooms they give for free to projects. Co-working spaces also often have
 event rooms. Universities are also great place,
-especially technical universities usually have a good setup.  A local youth 
+especially technical universities usually have a good setup. A local youth
 centre is also good place to approach. Cities often have
 public rooms that are available at reasonable rates.
 
