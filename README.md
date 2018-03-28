@@ -1,4 +1,6 @@
-# in-a-box
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rustbridge/in-a-box/master/inabox.png" alt="in-a-box logo, showing a crab printed on the side of a cardboard box" width=300 />
+</h1>
 
 `in-a-box` is the best way to kickstart a RustBridge event! This repository includes all kinds of interesting and valuable content for future and current event organizers to use. The repository is broadly divided into four sections:
 
