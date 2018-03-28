@@ -1,6 +1,7 @@
 # Handling Money
 
 RustBridge should be free for attendees.
+
 It is possible to run an event on a very small budget.
 The two most common things that cost money are renting space and providing food for attendees.
 
