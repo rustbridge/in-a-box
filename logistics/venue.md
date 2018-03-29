@@ -36,7 +36,7 @@ Strong requirements:
 * Check accessibility, especially if access to the venue is step-free
 
 Important requirements:
-* Long events mean that people have to make pauses and step out, see that thereis space to retreat.
+* Long events mean that people have to make pauses and step out, see that there is space to retreat.
 * Open a little before and after the workshop
 * A bare room with rearrangable furniture is preferred
   - avoid row seating, but take it if you have nothing else
