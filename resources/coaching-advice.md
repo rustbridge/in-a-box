@@ -18,10 +18,10 @@ There is a fundamental difference between a **coach** and a **teacher**. The goa
 
 ### General teaching advice
 
-Others are generally good advice when teaching anything (even in a more hands-off approach)
+ Generally good advice when teaching anything (even in a more hands-off approach):
 
 - Create a friendly and welcoming environment
-  - Use students names and pronouns
+  - Use students' names and pronouns
   - Smile at them, make eye contact
 - Admit if you don't know something; that's okay!
 - When explaining, try to avoid jargon, especially on tech subjects
@@ -57,6 +57,7 @@ Be sure to be engaged with the students problems. Just because someone isn't ask
 
 - Follow the code of conduct of your event, **be an example that students can follow!**
   - This means no harassment, no sexual advances, no slurs or violating participants boundries
+  - If you see any of this happening, confront the offenders immediately. This also counts for event staff.
 - Don't roll your eyes at questions, don't be annoyed by misunderstanding, don't be impatient
 - Don't start debates about programming languages, toolkits, etc.
   - Avoid being opinionated
