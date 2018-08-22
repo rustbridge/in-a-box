@@ -1,10 +1,10 @@
 # Coaching Advice
 
-The following material isn't meant as rules but as guidelines. Feel free to pick and chose advice from different points as you see fit for the mentors and student audience alike. The material also aims for an explorative learning approach (sometimes called *the hard way*). This puts emphasis on letting students discover things by themselves, then helping them through what it means.
+The following material isn't meant as rules but as guidelines. Feel free to pick and choose advice from different points as you see fit for the mentors and student audience alike. The material also aims for an explorative learning approach (sometimes called *the hard way*). This puts emphasis on letting students discover things by themselves, then helping them through what it means.
 
 ---
 
-There is a fundamental difference between a **coach** and a **teacher**. The goal isn't to stand in front of a class and lecture them about Rust but to stand *besides* them and helping them discover the language by themselves. Some things to consider are specific to teaching programming (or other tech related fields) and having experience with that is always a plus.
+There is a fundamental difference between a **coach** and a **teacher**. The goal isn't to stand in front of a class and lecture them about Rust but to stand *besides* them and help them discover the language by themselves. Some things to consider are specific to teaching programming (or other tech related fields) and having experience with that is always a plus.
 
 - Stand on the sidelines but be ready to help
 - Focus on the students
